@@ -11,4 +11,4 @@ Texto Normal
 
 [Haz click para ir a nuestra web](https://es.alg.academy/) 
 
-![Imagen sobre el desarrollo Front-End](https://media.licdn.com/dms/image/D4D12AQE9KDPe-KE_cQ/article-cover_image-shrink_600_2000/0/1695744816253?e=2147483647&v=beta&t=l_E8OFNB-MVXPvGVRxnlW5IR1KATQNMgRJp_cP4uSG)
+![Imagen sobre el desarrollo Front-End](https://media.licdn.com/dms/image/D4D12AQE9KDPe-KE_cQ/article-cover_image-shrink_600_2000/0/1695744816253?e=2147483647&v=beta&t=l_E8OFNB-MVXPvGVRxnlW5IR1KATQNMgRJp_cP4uSGE)
